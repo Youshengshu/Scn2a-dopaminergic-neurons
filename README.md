@@ -10,3 +10,5 @@ This repository provides a collection of MATLAB scripts for analyzing **action p
 | `fiberphotometryIp_AUC.m`     | Computes AUC for fiber photometry traces around L-DOPA injection; includes detrending. |
 | `Sig_process_auto_deltaFF0.m` | Batch-processing script to compute ΔF/F₀ across trials using baseline fitting. |
 | `SlowMode_AUC.m`              | Fits and subtracts slow exponential baseline changes; outputs AUC. |
+
+This project is licensed under CC BY-NC-SA 4.0.
